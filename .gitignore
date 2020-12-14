@@ -1,0 +1,12 @@
+bin/
+patches/
+share/
+
+build.sh
+config.def.h.orig
+config.h
+st
+st.c.orig
+st.h.orig
+st.o
+x.o
