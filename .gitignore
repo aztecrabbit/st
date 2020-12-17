@@ -3,6 +3,7 @@ share/
 
 build.sh
 config.def.h.orig
+config.def.h.rej
 config.h
 st
 st.c.orig
