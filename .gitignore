@@ -1,7 +1,4 @@
-bin/
-share/
-
-build.sh
+boxdraw.o
 config.def.h.orig
 config.def.h.rej
 config.h
